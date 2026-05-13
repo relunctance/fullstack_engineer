@@ -1,0 +1,5 @@
+# fullstack_engineer Required Skills
+#
+# 使用 skill-registry 安装：
+#   python -m skill_registry install <skill-name>
+
