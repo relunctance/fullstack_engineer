@@ -1,0 +1,12 @@
+# {role_name} 角色配置
+# 如果不配置 model，则继承主理人（团队）的配置
+
+# model: claude-sonnet-4-6
+# temperature: 0.7
+# max_tokens: 8192
+
+# inbox 配置（Inbox-Router 使用）
+inbox_port: null  # null 表示使用随机可用端口
+
+# 行为配置
+auto_sync: true   # 完成任务后自动汇报给主理人
